@@ -1,0 +1,7 @@
+
+=======================================
+1.0 Release Candidate 1 - December 2012
+=======================================
+Initial model release based on work from Open Geospatial Consortium (OGC) Sensor Web Enablement (SWE)
+    standards working group and subsequent revision within INSPIRE Data Specification Thematic Working 
+    Groups.
